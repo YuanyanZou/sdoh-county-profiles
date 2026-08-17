@@ -1,0 +1,23 @@
+.DS_Store
+
+# Raw or row-level data
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.parquet
+
+# Tableau workbooks and extracts
+*.twb
+*.twbx
+*.hyper
+*.tde
+
+# Local and temporary files
+*.log
+*.tmp
+~*
+
+# Superseded local dashboard export (README uses dashboard-overview.jpg)
+assets/Dashboard.png
