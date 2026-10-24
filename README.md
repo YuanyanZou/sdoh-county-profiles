@@ -90,7 +90,7 @@ This process produced six profiles nested within three broad groups:
 
 ## My Role and Team Collaboration
 
-This project was completed by a three-person team for UC Davis STA 221. Preprocessing and domain-guided feature reduction were developed collaboratively; I contributed throughout the design process including feature definitions, domain structure, and retention criteria.
+This project was completed by a three-person team for UC Davis STA 221. Preprocessing and domain-guided feature reduction were team decisions. I proposed the preprocessing sequence (mechanism-specific imputation, winsorization, Yeo-Johnson) and the domain-specific PCA approach; teammates implemented the PCA code.
 
 I led the following work:
 
